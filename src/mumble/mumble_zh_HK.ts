@@ -9046,9 +9046,10 @@ You can register them again.</source>
 &lt;br /&gt;
 An access token is a text string, which can be used as a password for very simple access management on channels. Mumble will remember the tokens you&apos;ve used and resend them to the server next time you reconnect, so you don&apos;t have to enter these every time.
 </source>
-        <translation>&lt;b&gt;這是可編輯的伺服器授權碼列表。&lt;/b&gt;
+        <translation type="unfinished">&lt;b&gt;這是可編輯的伺服器授權碼列表。&lt;/b&gt;
 &lt;br /&gt;
-授權碼是頻道使用的簡單訪問管理系統並以文字方式儲存。Mumble 會記錄您曾經用過的授權碼及在您下次連線時使用，所以您不必使用授權碼登入。</translation>
+授權碼是頻道使用的簡單訪問管理系統並以文字方式儲存。Mumble 會記錄您曾經用過的授權碼及在您下次連線時使用，所以您不必使用授權碼登入。
+</translation>
     </message>
     <message>
         <source>Add a token</source>
